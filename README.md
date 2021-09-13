@@ -3,7 +3,7 @@
 This is a React web application that allows users to search for images based on a query relating to space.
 
 <p align ="center">
-<img src="images/screenshot.png" width="500">
+<img src="images/screenshot.png" width="700">
 </p>
 
 ### Techonologies
